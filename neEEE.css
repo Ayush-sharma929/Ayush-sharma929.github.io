@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML and CSS Web Page</title>
+    <!-- INTERNAL CSS -->
+    <style>
+        /* Element selector */
+        body {
+            font-family: ADLaM Display;
+            background-color: lightgray;
+        }
+        /* ID selector */
+        #main {
+            background-color: white;
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+
+        /* Class selector */
+        .heading {
+            color: darkblue;
+            text-align: center;
+        }
+
+        .para {
+            color: black;
+            font-size: 16px;
+        }
+
+        /* List styling */
+        ul {
+            color: green;
+        }
+
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th {
+            background-color: lightblue;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        /* Image styling */
+        img {
+            border: 2px solid black;
+        }
+    </style>
+</head
+</html>
